@@ -1,4 +1,5 @@
 static/secret.txt
+instance
 
 .DS_Store
 .env
